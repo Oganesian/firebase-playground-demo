@@ -19,3 +19,8 @@ npm run dev
 ```powershell
 npm run build
 ```
+
+## GitHub Pages
+
+
+[Live Demo]([https://duckduckgo.com](https://oganesian.github.io/firebase-playground-demo/))
