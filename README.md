@@ -23,4 +23,4 @@ npm run build
 ## GitHub Pages
 
 
-[Live Demo]([https://duckduckgo.com](https://oganesian.github.io/firebase-playground-demo/))
+[Live Demo](https://oganesian.github.io/firebase-playground-demo/)
